@@ -1,0 +1,44 @@
+body{
+  font-family: Verdana, Arial, sans-serif;
+  background: #f1f1f1;
+
+}
+.App {
+  position: relative;
+  text-align: center;
+}
+
+.classname {
+ transform: scale(0.6);
+  position: absolute;
+  top:2%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+button{
+  background: transparent;
+  border:none;
+}
+.myproducts{
+    position: absolute;
+    top:30%;
+    left:50%;
+    transform: translateX(-50%);
+}
+.mynavbar{
+  position: absolute;
+  top:30%;
+  left:50%;
+  transform: translateX(-50%);
+}
+
+.mysearch {
+  width: 400px !important;
+
+}
+
+.myicon {
+  margin-left: 6.5rem !important;
+}
+
